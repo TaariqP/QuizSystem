@@ -1,0 +1,10 @@
+Hello there!
+(I didn't call this a ReadMe because nobody seems to read ReadMe files anymore)
+Welcome to the Ultimate Quiz System. Brief notes before you continue.
+MainApplication is the root of this application. 
+I have kept the components of various parts of the program in the package as part of future development.
+Some parts are completely unneccessary and irrelevant such as "lottery.java".
+Formatting might be slightly different due to use of different compilers.
+Generally code style follows the Google Java Code styling which can be found online.
+
+Not an Open Source project just yet but watch this space!
